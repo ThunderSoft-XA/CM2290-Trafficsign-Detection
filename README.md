@@ -28,7 +28,7 @@ using the usb line to develop on Qualcomm® CM2290 SoC Open Kits.
 
 Direct power supply for Qualcomm® CM2290 SoC Open Kits.
 
-![charger](./res/charger.jpg )
+<img src="./res/charger.jpg" width = "30%" height = "30%" div align=centor />
 
 * OVA3
 Low power image sensor
